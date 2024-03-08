@@ -4,7 +4,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=yellow)
 ![GitHub commits since tagged version](https://img.shields.io/github/commits-since/openwall/john/1.9.0-Jumbo-1?color=brown)
 
-John the Ripper
+Quasimorph
 ===============
 
 This is the community-enhanced, "jumbo" version of John the Ripper.
